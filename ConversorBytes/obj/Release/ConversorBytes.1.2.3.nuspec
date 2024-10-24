@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ConversorBytes</id>
+    <version>1.2.3</version>
+    <authors>GabrielBrl</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <description>This package was created to translate byte (double, long, int) in their names in unit of memory.</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\gabri\repos\ConversorBytes\ConversorBytes\bin\Release\net6.0\ConversorBytes.dll" target="lib\net6.0\ConversorBytes.dll" />
+    <file src="C:\Users\gabri\repos\ConversorBytes\ConversorBytes\README.md" target="\README.md" />
+  </files>
+</package>

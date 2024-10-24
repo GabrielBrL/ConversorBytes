@@ -1,0 +1,11 @@
+C:\Users\gabri\repos\ConversorBytes\ConversorBytes\bin\Release\net6.0\ConversorBytes.deps.json
+C:\Users\gabri\repos\ConversorBytes\ConversorBytes\bin\Release\net6.0\ConversorBytes.dll
+C:\Users\gabri\repos\ConversorBytes\ConversorBytes\bin\Release\net6.0\ConversorBytes.pdb
+C:\Users\gabri\repos\ConversorBytes\ConversorBytes\obj\Release\net6.0\ConversorBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\repos\ConversorBytes\ConversorBytes\obj\Release\net6.0\ConversorBytes.AssemblyInfoInputs.cache
+C:\Users\gabri\repos\ConversorBytes\ConversorBytes\obj\Release\net6.0\ConversorBytes.AssemblyInfo.cs
+C:\Users\gabri\repos\ConversorBytes\ConversorBytes\obj\Release\net6.0\ConversorBytes.csproj.CoreCompileInputs.cache
+C:\Users\gabri\repos\ConversorBytes\ConversorBytes\obj\Release\net6.0\ConversorBytes.dll
+C:\Users\gabri\repos\ConversorBytes\ConversorBytes\obj\Release\net6.0\refint\ConversorBytes.dll
+C:\Users\gabri\repos\ConversorBytes\ConversorBytes\obj\Release\net6.0\ConversorBytes.pdb
+C:\Users\gabri\repos\ConversorBytes\ConversorBytes\obj\Release\net6.0\ref\ConversorBytes.dll
